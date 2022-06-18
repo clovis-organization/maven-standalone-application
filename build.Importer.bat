@@ -1,4 +1,3 @@
-
 :: Number Pattern:  30.(Sequence#).(Patcht#).(Test#)
 ::
 :: Not using SequenceNumber but using BuildNumber
